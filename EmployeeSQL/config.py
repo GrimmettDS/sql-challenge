@@ -1,4 +1,4 @@
 
 username = "postgres"
 
-password = "Dinky!@#$Doo"
+password = "--your password--"
